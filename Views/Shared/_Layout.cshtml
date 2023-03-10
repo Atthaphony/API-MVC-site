@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="~/css/colors.css">
+    <link rel="stylesheet" href="~/css/navigation.css">
+    <link rel="stylesheet" href="~/css/site.css">
+    @RenderSection("styles", false)
+    <link rel="stylesheets" href="~/css/Heads-detail-page">
+    <title>@ViewData["Title"] -Headbrands</title>
+</head>
+
+<body>
+    <header>
+        <nav class="navbar">
+            <h1 style="margin:0 0 0 1025px;"> Headbrands</span></h1>
+            <ul>
+                
+                <li style="margin:0 40px 0 0;"><a asp-action="Index" asp-controller="Home">Start</a></li>
+                <li><a asp-action="Index" asp-controller="HeadBrands">Produkter</a></li>
+       
+            </ul>
+        </nav>
+    </header>
+    <main>
+        @RenderBody()
+    </main>
+</body>
+
+</html>

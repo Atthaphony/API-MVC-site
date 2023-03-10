@@ -1,0 +1,31 @@
+[
+  {
+    "Id" :1,
+    "Name":"Color Protection Fine/Normal Duo",
+    "Brand":"Wella",
+    "Description":"Color Protection Shampoo Fine/Normal är ett färgbevarande schampo för fint och normalt hår som hjälper till att bevara färglystern och skydda färgat hår. Innehåller bland annat lime kaviar som är känt för att vara rik på olika antioxidanter och vitaminer, kopparbindande molekyler som bevarar lystern i håret samtidigt som E-vitamin och histidin hjälper till att kontrollera oxideringsprocessen efter färgning.",
+    "Image": "img1.jpg"
+  },
+  {
+    "Id" :2,
+    "Name":"Dynamic Fix",
+    "Brand":"Wella",
+    "Description":"Dynamic Fix är en flexibel och formbar hårspray som sätter sig på 45 sekunder. Hjälper till att skydda håret mot fukt, UV-strålning och värme.",
+    "Image": "img2.jpg"
+  },
+  {
+    "Id" :3,
+    "Name":"Shaper",
+    "Brand":"Fudge",
+    "Description":"Shaper är ett krämvax som ger textur med medium stadga och en semi-matt finish. Stadga 4/10.",
+    "Image": "img3.jpg"
+  },
+  {
+    "Id" :4,
+    "Name":"Texturizing Spray Wax",
+    "Brand":"Gold",
+    "Description":"Texturizing Spray Wax är ett sprayvax som ger volym och textur även till de finaste och tunnaste av hår. Sprayvaxet är lätt att forma om under dagen och består av 50% spray och 50% vax med en lätt formula som inte tynger ner håret. Det definierar och ger glans till håret samt framhäver hårets naturliga textur. Passar alla hårtyper och texturer samt är veganskt och parabenfritt.",
+    "Image": "img4.jpg"
+  }
+ 
+]

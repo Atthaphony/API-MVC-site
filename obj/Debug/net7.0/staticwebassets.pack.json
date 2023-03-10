@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Attha\\Desktop\\API & MVC\\Head-brands.web\\wwwroot\\css\\Heads-detail-page.css",
+      "PackagePath": "staticwebassets\\css\\Heads-detail-page.css"
+    },
+    {
+      "Id": "C:\\Users\\Attha\\Desktop\\API & MVC\\Head-brands.web\\wwwroot\\css\\colors.css",
+      "PackagePath": "staticwebassets\\css\\colors.css"
+    },
+    {
+      "Id": "C:\\Users\\Attha\\Desktop\\API & MVC\\Head-brands.web\\wwwroot\\css\\landing-page.css",
+      "PackagePath": "staticwebassets\\css\\landing-page.css"
+    },
+    {
+      "Id": "C:\\Users\\Attha\\Desktop\\API & MVC\\Head-brands.web\\wwwroot\\css\\navigation.css",
+      "PackagePath": "staticwebassets\\css\\navigation.css"
+    },
+    {
+      "Id": "C:\\Users\\Attha\\Desktop\\API & MVC\\Head-brands.web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Attha\\Desktop\\API & MVC\\Head-brands.web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Attha\\Desktop\\API & MVC\\Head-brands.web\\wwwroot\\images\\landing.jpg",
+      "PackagePath": "staticwebassets\\images\\landing.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Head-brands.web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Head-brands.web.props",
+      "PackagePath": "build\\Head-brands.web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Head-brands.web.props",
+      "PackagePath": "buildMultiTargeting\\Head-brands.web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Head-brands.web.props",
+      "PackagePath": "buildTransitive\\Head-brands.web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

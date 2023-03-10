@@ -1,0 +1,24 @@
+﻿@model IList<Head_brands.web.ViewModel.Heads.HeadListViewModel>
+
+<section>
+
+   <center>
+   
+    <h1 style="margin:100px 0 0 0;">Produkter</h1>
+
+    <p><a asp-action="create">Lägg till Produkt</a></p></div>
+
+    @foreach (var head in Model)
+    {
+        
+         <div class="Heads.details-page">
+         <img src="@head.Image" alt ="@head.Brand">
+         <div><span>@head.Name</span>&nbsp;<span></span></div>
+         <div class="buttons-container">
+                    <a class="btn btn-dark" asp-action="details" asp-controller="heads" asp-route-id="@head.Id">Detaljer</a>
+                </div>
+            </div>
+    }
+    </center>
+ 
+</section>
